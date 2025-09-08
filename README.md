@@ -2,8 +2,8 @@
 
 ## Hi there, I'm Emirhan 👋
 
-🖥️ Self-taught programmer from Germany
-🎂 18 years old
+🖥️ Self-taught programmer from Germany <br>
+🎂 18 years old <br>
 💫 Passionate about building hobby projects and learning new tech
 
 ## Tech Stack
