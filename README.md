@@ -12,7 +12,7 @@ Derzeit arbeite ich an neuen Projekten, die ich hier bald veröffentliche.
 ## 📚 Top-Projekte
 - **Tactical Shooter (UE5)** — Abschlussprojekt (2BKI), Multiplayer-Prototyp mit Fokus auf taktisches Gameplay.  
 - **Ops-Tools (Python)** — kleine Automatisierungs-Skripte & Tools zur Arbeitserleichterung.  
-- **Remote-Administration (Lernprojekt, C#)** — Konzeptentwicklung einer Remote-Administration-App zu Lernzwecken im privaten Labor. Fokus: sichere Kommunikation & Authentifizierung.  
+- **Remote-Administration (Lernprojekt, C#)** — Konzeptentwicklung einer Remote Administration App zu Lernzwecken. Fokus: sichere Kommunikation & Authentifizierung.  
 
 
 ## 🛠️ Tech Stack
